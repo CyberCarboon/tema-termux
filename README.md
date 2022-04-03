@@ -11,7 +11,7 @@ Script buat ubah tampilan termux
 
  pkg install figlet
 
- pkg install 
+ pip2 install lolcat
  
  pkg install neofetch
 
